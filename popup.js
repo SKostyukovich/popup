@@ -1,14 +1,9 @@
+
     (function(s, t, e, p, f, o, r, m) {
         s[t] = s[t] || {};
-        s[t][2101234059] = {
+        s[t][2101224869] = {
             id: "XVAdONE",
-            rnd: 2101234059,
-            popup: true,
-            showType: "auto",
-            autoDelay: "onload",
-            autoInterval: "always",
-            overlayColor: "#000000",
-            overlayOpacity: 70
+            rnd: 2101224869
         };
         e.async = true;
         e.src = "https:" + f;
